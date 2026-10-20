@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hetal
 
-<!--
-**HetalK4/HetalK4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Data Science and Analytics student at USIU-Africa, Nairobi.
+I'm most interested in the stage before modelling: finding where a dataset
+is wrong before building anything on top of it.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, R, SQL
+- **Data and ML:** Pandas, NumPy, scikit-learn, OpenCV, NLTK, spaCy
+- **BI and visualisation:** Power BI, Matplotlib, Seaborn
+- **Tools:** Git and GitHub, Google Colab, Jupyter
+
+## Selected projects
+
+- **NeuroScan:** brain tumour MRI classification comparing a custom CNN,
+  ResNet-50 and DenseNet-121 (group capstone; I handled model development
+  and evaluation). [Repo link]
+- **Face Mask Detection:** classical computer vision pipeline using Haar
+  Cascade, LBP features and an SVM. [Repo link]
+- **Sensitive Data Discovery Scanner:** Regex and YARA-based audit of a
+  100,000-record database. [Repo link]
+- **PulseAnalytics:** healthcare BI dashboard in Power BI (group project).
+  [Repo link]
+
+## Connect
+
+[LinkedIn](www.linkedin.com/in/hetal-kumbharana)
