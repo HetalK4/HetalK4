@@ -21,7 +21,7 @@ is wrong before building anything on top of it.
 - **Sensitive Data Discovery Scanner:** Regex and YARA-based audit of a
   100,000-record database. [Repo link]
 - **PulseAnalytics:** healthcare BI dashboard in Power BI (group project).
-  [Repo link]
+  [[Repo link](https://github.com/HermelaDev/PulseAnalytics-Healthcare-BI-System)]
 
 ## Connect
 
