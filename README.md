@@ -15,7 +15,7 @@ is wrong before building anything on top of it.
 
 - **NeuroScan:** brain tumour MRI classification comparing a custom CNN,
   ResNet-50 and DenseNet-121 (group capstone; I handled model development
-  and evaluation). [Repo link]
+  and evaluation). [[Repo link](https://github.com/HetalK4/neuroscan-brain-tumor-classification)]
 - **Face Mask Detection:** classical computer vision pipeline using Haar
   Cascade, LBP features and an SVM. [Repo link]
 - **Sensitive Data Discovery Scanner:** Regex and YARA-based audit of a
