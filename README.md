@@ -25,4 +25,4 @@ is wrong before building anything on top of it.
 
 ## Connect
 
-[LinkedIn]www.linkedin.com/in/hetal-kumbharana
+LinkedIn: www.linkedin.com/in/hetal-kumbharana
