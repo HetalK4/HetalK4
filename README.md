@@ -17,7 +17,7 @@ is wrong before building anything on top of it.
   ResNet-50 and DenseNet-121 (group capstone; I handled model development
   and evaluation). [[Repo link](https://github.com/HetalK4/neuroscan-brain-tumor-classification)]
 - **Face Mask Detection:** classical computer vision pipeline using Haar
-  Cascade, LBP features and an SVM. [Repo link]
+  Cascade, LBP features and an SVM. [[Repo link](https://github.com/HetalK4/face-mask-detection-classical-cv)]
 - **Sensitive Data Discovery Scanner:** Regex and YARA-based audit of a
   100,000-record database. [Repo link]
 - **PulseAnalytics:** healthcare BI dashboard in Power BI (group project).
