@@ -19,7 +19,7 @@ is wrong before building anything on top of it.
 - **Face Mask Detection:** classical computer vision pipeline using Haar
   Cascade, LBP features and an SVM. [[Repo link](https://github.com/HetalK4/face-mask-detection-classical-cv)]
 - **Sensitive Data Discovery Scanner:** Regex and YARA-based audit of a
-  100,000-record database. [Repo link]
+  100,000-record database. [[Repo link](https://github.com/HetalK4/sensitive-data-discovery-scanner)]
 - **PulseAnalytics:** healthcare BI dashboard in Power BI (group project).
   [[Repo link](https://github.com/HermelaDev/PulseAnalytics-Healthcare-BI-System)]
 
